@@ -1,7 +1,7 @@
 # pysnmp4-GUI Application Chinese README
 Orz懒得敲了，英文凑合看着先吧
 # pysnmp4-GUI-Application English README
-This App is a GUI for SNMP operations, built using tkinter and pysnmp 4.4.12.
+This App is a GUI for SNMP operations, built using tkinter and pysnmp 4.4.12. Use ttkthemes to beautify.
 ***
 ![图片1](https://github.com/user-attachments/assets/46567f4e-f9d0-40a2-b978-1343fa45d10e)
 ***
